@@ -1,4 +1,4 @@
-<h1 align="left">👋 Olá. Eu sou o Caio!</h1>
+<h1 align="left">👋 Olá, Eu sou o Caio!</h1>
 
 ###
 
