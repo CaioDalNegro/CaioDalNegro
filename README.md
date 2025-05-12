@@ -20,4 +20,3 @@ Estou no início da minha jornada na programação e desenvolvimento de software
 ## 📫 Contato
 - 📧 Email: [caiodalnegro@gmail.com](mailto:caiodalnegro@gmail.com)
 - 🌐 LinkedIn: [Caio Dal Negro](https://www.linkedin.com/in/caio-dal-negro-ab85602b4/)
-- 📸 Instagram: [@caio.dns](https://www.instagram.com/caio.dns/)
