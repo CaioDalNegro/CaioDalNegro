@@ -1,8 +1,23 @@
 # 👋 Olá, eu sou o Caio
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B711F7&width=435&lines=Developer+JAVA+Jr." alt="Typing SVG" />
-</a>
-
 ---
-<img src="https://skillicons.dev/icons?i=git,docker,figma,java,spring,postgresql,mysql" alt="tech icons" style="border-radius:12px;padding:6px;background:#0b0b0b;"/>
+
+## 🚀 Sobre mim
+
+Sou desenvolvedor focado em **Java e Backend**, estudando e construindo projetos com **Spring Boot** e APIs REST.
+
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de aplicações web, mobile, bancos de dados, segurança e boas práticas.
+
+## 🛠️ Tecnologias
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker,git,github" alt="Tecnologias"/>
+
+**Java · Spring Boot · Spring Security · JPA · Hibernate · REST API · PostgreSQL · MySQL · Docker · Git**
+
+## 🌱 Atualmente estudando
+
+**Java · Spring Boot · Spring Security · PostgreSQL · Docker · Testes**
+
+## 📫 Contato
+
+[LinkedIn](www.linkedin.com/in/caiodalnegro) · [GitHub](https://github.com/CaioDalNegro) · [Email](mailto:caiodalnegro@gmail.com)
