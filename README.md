@@ -10,9 +10,9 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de aplicaç
 
 ## 🛠️ Tecnologias
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker,git,github" alt="Tecnologias"/>
+<img src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker,react,git,github" alt="Tecnologias"/>
 
-**Java · Spring Boot · Spring Security · JPA · Hibernate · REST API · PostgreSQL · MySQL · Docker · Git**
+**Java · Spring Boot · Spring Security · JPA · Hibernate · REST API · PostgreSQL · MySQL · Docker · React · React Native · Git**
 
 ## 🌱 Atualmente estudando
 
