@@ -12,11 +12,11 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de aplicaç
 
 <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker,react,flutter,git,github" alt="Tecnologias"/>
 
-**Java · Spring Boot · Spring Security · JPA · Hibernate · REST API · PostgreSQL · MySQL · Docker · React · React Native · Git**
+**Java · Spring Boot · Spring Security · JPA · Hibernate · REST API · PostgreSQL · MySQL · Docker · React · React Native · Flutter · Git**
 
 ## 🌱 Atualmente estudando
 
-**Java · Spring Boot · Spring Security · PostgreSQL · Docker · Testes**
+**Java · Spring Boot · Spring Security · PostgreSQL · Docker · Flutter · Testes**
 
 ## 📫 Contato
 
